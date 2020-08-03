@@ -5,8 +5,13 @@
 1.Baixar o conteudo e extrair as pastas
 
 2.Entrar na pasta *api* e usar os seguintes comandos
-3. npm install
-4. npm run dev
-5.Entrar na pasta *projeto* e usar os seguintes comandos
-6. npm install
-7. npm run serve 
+
+* npm install
+
+* npm run dev
+
+2.Entrar na pasta *projeto* e usar os seguintes comandos
+
+* npm install
+
+* npm run serve 

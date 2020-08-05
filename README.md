@@ -1,17 +1,17 @@
 # Inicializando o Projeto
 
-*Para inicializar o projeto basta:*
+**Para inicializar o projeto basta:**
 
 1.Baixar o conteudo e extrair as pastas
 
-2.Entrar na pasta *api* e usar os seguintes comandos
+2.Entrar no terminal dentro da pasta **api** e usar os seguintes comandos
 
-* npm install
+* **npm install**
 
-* npm run dev
+* **npm run dev**
 
-2.Entrar na pasta *projeto* e usar os seguintes comandos
+3.Entrar no terminal dentro da pasta **projeto** e usar os seguintes comandos
 
-* npm install
+* **npm install**
 
-* npm run serve 
+* **npm run serve** 
